@@ -1,5 +1,5 @@
-<!-- TITLE: Home -->
-<!-- SUBTITLE: A quick summary of Home -->
+<!-- TITLE: 为什么，是植物图鉴 -->
+<!-- SUBTITLE: -->
 
 文：中平卓马  
 译：蔡骁  
